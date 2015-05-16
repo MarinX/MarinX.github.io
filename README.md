@@ -1,2 +1,2 @@
-# MarinX.github.io
+# marinx.github.io
 Github pages
